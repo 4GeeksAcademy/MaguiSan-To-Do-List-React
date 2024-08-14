@@ -1,0 +1,11 @@
+.inputTask{
+    border: none;
+    outline: none;
+}
+.iconTask {
+    display: none;
+}
+.listTask:hover .iconTask {
+    display: block;
+}
+
